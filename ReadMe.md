@@ -32,3 +32,5 @@ If you are providing a solution without using the build file, we want you to nam
 
 You can refer our help documents [here](https://help.geektrust.com)
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Python)
+![Screenshot (415)](https://user-images.githubusercontent.com/110808779/195592970-8e7dab07-ca2c-442b-96da-e2e5bc4c687b.png)
+
